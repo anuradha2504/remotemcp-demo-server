@@ -1,0 +1,17 @@
+# Python generated file
+__pycache__/
+*.py[cod]
+*.egg-info
+build/
+dist/
+wheels/
+
+
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
